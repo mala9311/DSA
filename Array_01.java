@@ -41,6 +41,7 @@ public class Array_01{
         for(int i :age){
             System.out.println(i);
         }
+        sc.close();
 
     }
 }
