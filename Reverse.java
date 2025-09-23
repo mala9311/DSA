@@ -7,13 +7,13 @@ public class Reverse {
        int end = number.length -1;
        //***********Using for loop**********
        
-    //    for(int i =number.length -1;i> 0;i--){
-    //     int temp = number[start];
-    //     number[start] = number[end];
-    //     number[end]= temp;
+       for(int i =number.length -1;i> 0;i--){
+        int temp = number[start];
+        number[start] = number[end];
+        number[end]= temp;
        
-    // }
-    //      System.out.println("Reverse the Arrays :"  + Arrays.toString(number));
+    }
+         System.out.println("Reverse the Arrays :"  + Arrays.toString(number));
 
        // Using while loop
        
