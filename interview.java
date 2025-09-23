@@ -8,7 +8,7 @@ public class interview {
                 min = n[i];
             }
          }
-         System.out.println(min);
+         System.out.println("Minimum Element :" +min);
 
         // Find Maximum element in Array
         int max = n[0];
@@ -17,7 +17,7 @@ public class interview {
                 max = n[i];
             }
         }
-        System.out.println(max);
+        System.out.println("Maximum Element :" +max);
     }
     
 }
