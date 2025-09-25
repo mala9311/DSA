@@ -37,5 +37,6 @@ public class FindRankAndIndex {
             System.out.println("Original index of " + n + " is: " + originalIndex);
          
     }
-    
-}}
+    sc.close();
+}
+}
