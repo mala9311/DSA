@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 
 public class Majority_Element {
     public static void main(String[] args) {
