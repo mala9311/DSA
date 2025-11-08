@@ -70,10 +70,14 @@ public class MyLinkedList {
         System.out.println(head.data);
     }
 
-    //Get Last
+    //Get Last Node
 
     public void getLast(){
         Node temp=head;
+        while(temp.next!=null){
+            temp=temp.next;
+        }
+        System.out.println(temp.data);
     }
     public void show(){
         Node temp = head;
