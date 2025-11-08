@@ -19,6 +19,7 @@ public class Reverse {
        
       
        while(start<end) {
+        
         int temp = number[start];
         number[start] = number[end];
         number[end]= temp;
