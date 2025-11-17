@@ -26,21 +26,23 @@ public class LinearSearch_01 {
             //hence the target not found
             return -1;
         }
-    //     int a[] ={9,40,21,14,8,98};
-    //     int target = 78;
-    //     boolean found = false;
-    //     for(int i = 0; i< a.length-1 ;i++){
-    //         if(a[i] == target){
+    /*      int a[] ={9,40,21,14,8,98};
+        int target = 78;
+        boolean found = false;
+        for(int i = 0; i< a.length-1 ;i++){
+            if(a[i] == target){
 
-    //             System.out.println("present");
-    //             found = true;
-    //             break;
+                System.out.println("present");
+                found = true;
+                break;
 
-    //         }
-    //     }
-    //     if(!found){
-    //         System.out.println("not present");
-    //     }
-    // }
-    
+            }
+        }
+        if(!found){
+            System.out.println("not present");
+        }
+    */
 }
+    
+
+
