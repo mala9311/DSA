@@ -32,13 +32,14 @@ public class Multidimension {
             // System.out.println();
             System.out.println(Arrays.toString(arr[row]));
         }
-        
+        sc.close();
     }
         // System.out.println("Using Arrays.deepToString:");
        // System.out.println(Arrays.deepToString(arr));
 
+       
 
       //  System.out.println(arr[][]);
     }
-    
+   
 
